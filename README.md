@@ -1,2 +1,2 @@
-# c_linked_list
+# C Linked List
 Singly linked implementation list in C language
